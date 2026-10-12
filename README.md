@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @curious-magpie
-- 👀 I’m interested in freedom
-
-<!---
-curious-magpie/curious-magpie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Reminder
+- Systems should be inspectable and modifiable
+- Small components, comprehensibility, and simplicity
+- Knowledge should propagate freely
+- Curiosity, mastery, and freedom through technical understanding
+- max{autonomy} ~ max{understanding + control}
